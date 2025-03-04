@@ -1,0 +1,4 @@
+Django==4.0
+speechrecognition==3.8.1
+pytz==2024.1
+requests==2.31.0
